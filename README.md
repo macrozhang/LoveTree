@@ -2,7 +2,6 @@
 
 > <b>修改config.js的配置就可以做一个属于自己的爱情树了,喜欢的话fork or star一下呗~</b>
 
-<img src="https://github.com/AJLoveChina/loveBalloon/blob/master/static/github-star.png" />
 
 ### config.js 说明
 ```text
@@ -30,8 +29,6 @@ Tip:换背景音乐的话,只需要把 `index_files/music.mp3` 换成你自己�
 
 如果不想要音乐, 就把这个music.mp3文件删除.
 
-## 截图演示
-<img src="./index_files/love-tree.gif"/>
 
 ## 结尾
 愿天下有情人——终成眷属。
